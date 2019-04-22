@@ -1,4 +1,2 @@
-## Python skills
-
-some tricky python skills
+## Python language
 
